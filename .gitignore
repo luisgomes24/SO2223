@@ -1,2 +1,3 @@
-*solutions
+*_solutions
 *.o
+.vscode/settings.json
